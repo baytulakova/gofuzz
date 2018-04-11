@@ -1,6 +1,6 @@
 // +build gofuzz
 
-package ptp
+package arp
 
 func Fuzz(data []byte) int {
 	arp := new(ARPPacket)
