@@ -1,5 +1,3 @@
-#gofuzz
-
 If you don’t have go-fuzz already installed, do that now:
 
 $ go get github.com/dvyukov/go-fuzz/go-fuzz
